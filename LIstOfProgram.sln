@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OddEvenNo", "OddEvenNo", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddEvenNo", "OddEvenNo\OddEvenNo.csproj", "{A0770000-3E48-42B6-A59C-21DF2452DBCD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Factorial", "Factorial", "{A80F5D99-7B94-4655-9920-F563B835DD6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial-Program", "Factorial-Program\Factorial-Program.csproj", "{8795AF47-E59E-4D18-B97A-367AF9355003}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +21,17 @@ Global
 		{A0770000-3E48-42B6-A59C-21DF2452DBCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0770000-3E48-42B6-A59C-21DF2452DBCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0770000-3E48-42B6-A59C-21DF2452DBCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8795AF47-E59E-4D18-B97A-367AF9355003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8795AF47-E59E-4D18-B97A-367AF9355003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8795AF47-E59E-4D18-B97A-367AF9355003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8795AF47-E59E-4D18-B97A-367AF9355003}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{A0770000-3E48-42B6-A59C-21DF2452DBCD} = {8D091842-E96B-481E-B505-50F6CB3B1097}
+		{8795AF47-E59E-4D18-B97A-367AF9355003} = {A80F5D99-7B94-4655-9920-F563B835DD6F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FD1BDF6D-8487-45E3-8133-9848C8DF6A70}
